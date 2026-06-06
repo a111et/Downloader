@@ -1,7 +1,7 @@
 # Скачивайте видео, аудио и фото через контекстное меню Windows 10/11 с многих сайтов
-
-![platform-windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-[![wiki](https://custom-icon-badges.demolab.com/badge/Wiki-1D1D1E?style=for-the-badge&logo=book&logoColor=white)](https://github.com/a111et/Downloader/wiki)
+![GitHub license](https://img.shields.io/github/license/a111et/Downloader?style=for-the-badge)
+![Platform-windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+[![Wiki](https://custom-icon-badges.demolab.com/badge/Wiki-1D1D1E?style=for-the-badge&logo=book&logoColor=white)](https://github.com/a111et/Downloader/wiki)
 [![Download](https://img.shields.io/badge/Download-informational?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fa111et%2Fdownloadfromyoutube%2Freleases)](https://github.com/a111et/Downloader/releases)
 
 Простой проект, который добавляет в контекстное меню Windows 10 и 11 пункт «Скачать видео, аудио и фото» для большого пула сайтов - таких как YouTube, SoundCloud, TikTok, Twitter/X, Instagram, Pixiv, 4chan и многих других - с помощью yt-dlp и gallery-dl
@@ -15,7 +15,7 @@
 
 ## Установка скрипта
 Достаточно скачать архив из релизов, распаковать в удобное место и запустить один из установочных файлов от админа:                                                       
-* `_install_.cmd` — добавляет пункты в стандартное контекстное меню.  
+* `_install.cmd` — добавляет пункты в стандартное контекстное меню.  
 * `_install_shift.cmd` — добавляет пункты в контекстное меню, но они будут видны только при зажатой клавише **Shift**.  
 
 > [!TIP]
